@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Givnite</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="login_facebook">Log in with Facebook</string>
+    <string name="logout_facebook">Logout</string>
+    <string name="facebook_app_id">959049027554797</string>
+</resources>

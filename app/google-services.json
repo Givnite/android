@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "944974463204",
+    "firebase_url": "https://fir-appredo.firebaseio.com",
+    "project_id": "fir-appredo",
+    "storage_bucket": "fir-appredo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944974463204:android:0892082b53a6576c",
+        "android_client_info": {
+          "package_name": "com.gankyphadke.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "944974463204-mo6ino1uutf1ql9ktel83bhenmq36v70.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvhi1jFKYJK6OhEgN5SpjrqL1XS4rVIIk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944974463204:android:242831ee678b9aaa",
+        "android_client_info": {
+          "package_name": "com.givnite.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "944974463204-mo6ino1uutf1ql9ktel83bhenmq36v70.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvhi1jFKYJK6OhEgN5SpjrqL1XS4rVIIk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
